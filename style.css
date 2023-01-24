@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    color: #D4AF37;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 400%;
+}
+  p {
+    color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 160%;
+  }
+
+h3, h4{
+color: rgb(240,230,140);
+;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 260%;
+
+}
+
+ol li {
+    color: #D4AF37;
+   margin: 5px;
+   font-size: 110%;
+  }
+  
+  ul li {
+    color: whitesmoke;
+    margin: 5px;
+    font-size: 110%;
+  }
+
+
+
+  a.more:link,
+  a.more:visited,
+  a.more:active { color: rgb(240,230,140) ;
+     text-decoration: underline;
+     font-size: 130%;
+    }
+  a.more:hover {color: whitesmoke;
+     text-decoration: none;
+     font-size: 130%;
+    }
